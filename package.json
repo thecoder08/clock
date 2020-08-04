@@ -1,0 +1,10 @@
+{
+  "name": "thecoder08-clock",
+  "version": "1.0.5",
+  "description": "A package that tells time.",
+  "bin": {
+    "clock": "clock.js"
+  },
+  "author": "thecoder08",
+  "license": "MIT"
+}
