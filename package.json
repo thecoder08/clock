@@ -1,8 +1,7 @@
 {
-  "name": "thecoder08-clock",
+  "name": "@thecoder08/clock",
   "version": "1.0.1",
   "description": "A package that tells time.",
-  "repository": "https://github.com/thecoder08/clock",
   "bin": {
     "clock": "clock.js"
   },
