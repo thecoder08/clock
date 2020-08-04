@@ -2,6 +2,9 @@
   "name": "@thecoder08/clock",
   "version": "1.0.1",
   "description": "A package that tells time.",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "bin": {
     "clock": "clock.js"
   },
